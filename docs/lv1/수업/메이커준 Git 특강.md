@@ -72,3 +72,45 @@ git upstream, fork
 
 fork를 받아서 수정을 하고 다시 upstream을 통해서 거슬러 올라 반영할 수 있도록 하는 것!
 
+
+
+
+
+---
+
+
+
+## GitFlow
+
+2010년에 Vincent Driessen 블로그 글이 퍼지면서 유행
+
+각자의 팀 상황, 업무 상황에 따라 적합한 것을 선택하는 것이 바람직함
+
+개념적으로 브랜치를 나눠서 진행하는 것
+
+master에서는 tag를 이용해서 받아온다.
+
+기능을 개발할 때 feature branch를 이용한다.
+
+upstream first 정책
+
+
+
+## Git에서 보안 문서를 유출했을 경우
+
+git 해당 파일들의 작업을 조율하기 위한 분산 버전 관리 시스템
+
+gitHub 웹 저장소
+
+민감 데이터 - sensitive data
+
+db 패스워드, aws 노출된 키
+
+사고를 수습하고 어떻게 할 것인지?
+
+.gitignore를 사용한다!
+
+
+
+
+

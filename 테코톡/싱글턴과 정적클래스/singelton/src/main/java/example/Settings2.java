@@ -1,6 +1,6 @@
 package example;
 
-public enum Settings2 {
+public enum Settings {
 
     INSTANCE;
 

@@ -1,0 +1,147 @@
+{
+  "main": {
+    "id": "a1a32432e9837c9f",
+    "type": "split",
+    "children": [
+      {
+        "id": "ba5fa7288f0c8b96",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8644a6dee51a9d0f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "746c1fcaf6fe0d2c",
+    "type": "split",
+    "children": [
+      {
+        "id": "be6ff4f4ca14ca48",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a9426583e2fdc939",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8ab50c194537c9f9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "da11b87063723993",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "16ca0b168db1d97c",
+    "type": "split",
+    "children": [
+      {
+        "id": "600b2e3c9126801a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "84cde7aeb88bdeed",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "dd6c38b8e6426b1e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b6c3dfc3a7081cdb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e53b7f08373020ae",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "8644a6dee51a9d0f",
+  "lastOpenFiles": [
+    "lv3/스프린트4/CloudWatch 도입기.md",
+    "lv3/스프린트3/워니 글쓰기 특강.md",
+    "lv3/스프린트3/매트의 아고라 CI CD.md",
+    "lv3/스프린트3/로그관련 회의 안건.md",
+    "lv3/스프린트3/로그 관련 공부한 내용 정리.md",
+    "lv3/스프린트2/데모데이.md",
+    "lv3/스프린트2/git branch 전략.md",
+    "lv3/스프린트2/CICD 파이프라인 설계.md",
+    "lv3/스프린트2/CI:CD란 무엇인가.md",
+    "lv3/스프린트1/프로젝트 초안.md"
+  ]
+}
